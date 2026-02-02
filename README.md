@@ -90,6 +90,13 @@ Excel
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKWI5198YRPSUW4Z26emGPZktGDLT2UegbQ&s" alt="looker" width="30" height="30"/>Looker Studio
 </h2>
 
+<div align="center">
+  <h5>Google Analytics Report</h5>
+
+  <img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/looker_GA.gif?raw=true"/>
+  <br>
+
+</div>
 
 <div align="center">
   <h5>Pharmacies Sales Dashboard</h5>
