@@ -50,22 +50,6 @@
 ## Reports & Dashboards :
 
 <h2 align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKWI5198YRPSUW4Z26emGPZktGDLT2UegbQ&s" alt="Excel" width="30" height="30"/>Looker Studio
-</h2>
-
-
-<div align="center">
-  <h5>Pharmacies Sales Dashboard</h5>
-  <a href="https://lookerstudio.google.com/reporting/97592d4a-0c69-4999-a3df-53efa8b65d25/page/0p7qD" target="_blank">
-    <img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/pharmasales.jpeg?raw=true"/>
-    <br>
-    <img src="https://img.shields.io/badge/View%20Dashboard-black?style=for-the-badge&logo=looker" alt="View Dashboard"/>
-  </a>
-</div>
-
----
-
-<h2 align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHqJL1SgBf1tWaSvdAGStvp9kX-SujG5RD9liU3G8gw-ZnPdtA01YAMTmARhTXaed7Uc&usqp=CAU" alt="Excel" width="20" height="20"/>
 Excel
 </h2>
@@ -87,4 +71,31 @@ Excel
 <div align="center">
   <b>Customer Churn Analysis</b>
     <img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/customer_churn_excel.png?raw=true"/>
+</div>
+
+---
+
+<h2 align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTATg9e4qx4p7o43lIdAqiUVhEOTvi-Dzmk4A&s" alt="powerbi" width="52" height="27"/>Power BI
+</h2>
+
+
+<div align="center">
+  <b>22-23 Sales Analysis</b>
+    <img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/22_23_Sales_analysis.png?raw=true"/>
+</div>
+
+---
+<h2 align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKWI5198YRPSUW4Z26emGPZktGDLT2UegbQ&s" alt="looker" width="30" height="30"/>Looker Studio
+</h2>
+
+
+<div align="center">
+  <h5>Pharmacies Sales Dashboard</h5>
+  <a href="https://lookerstudio.google.com/reporting/97592d4a-0c69-4999-a3df-53efa8b65d25/page/0p7qD" target="_blank">
+    <img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/pharmasales.jpeg?raw=true"/>
+    <br>
+    <img src="https://img.shields.io/badge/View%20Dashboard-black?style=for-the-badge&logo=looker" alt="View Dashboard"/>
+  </a>
 </div>
