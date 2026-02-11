@@ -124,7 +124,7 @@
 <summary><b>📊 FNP Sales Analysis Dashboard</b></summary>
 <br>
 <div align="center">
-<img src="https://github.com/IslamAshraaf/Data-Analytics-Portfolio/blob/main/Dashboards/media/FNP_Sales_Analysis.png?raw=true" width="95%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+<img src="_media/FNP_Sales_Analysis.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 </div>
 </details>
 
