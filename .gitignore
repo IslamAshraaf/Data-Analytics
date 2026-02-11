@@ -6,17 +6,3 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
-.venv
-.python-version
-pyproject.toml
-uv.lock
-
-# Files
-*.csv
-*.xlsx
-
-# Dashboards
-Dashboards/Looker Studio/
-Dashboards/Power BI/
-Dashboards/Excel/
